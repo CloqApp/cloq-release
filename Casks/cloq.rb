@@ -1,11 +1,11 @@
 cask "cloq" do
-  version "2.0.0"
-  sha256 "767a419742d8ef3ae937342b58079784b7279ce7cee555e537b987c8075d2097"
+  version "2.0.1"
+  sha256 "f42cbdb5fb74e544cd7f5bd2815582e1896a085c80d618d4c480419df9f9bcb8"
 
-  url "https://github.com/CloqApp/cloq-release/releases/download/v2.0.0/Cloq-2.0.0-mac-arm64.dmg"
+  url "https://github.com/CloqApp/cloq-release/releases/download/v2.0.1/Cloq-2.0.1-mac-arm64.dmg"
   name "Cloq"
   desc "Stealthy floating AI & WhatsApp assistant for macOS"
-  homepage "https://yourwebsite.com"
+  homepage ""
 
   app "Cloq.app"
 
